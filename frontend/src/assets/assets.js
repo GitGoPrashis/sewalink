@@ -1,4 +1,4 @@
-import appointment_img from './appointment_img.png'
+import appointment_img from './el1.png'
 import header_img from './bg1.png'
 import group_profiles from './group_profiles.png'
 import profile_pic from './profile_pic.png'
@@ -16,8 +16,8 @@ import info_icon from './info_icon.svg'
 import upload_icon from './upload_icon.png'
 import stripe_logo from './stripe_logo.png'
 import razorpay_logo from './razorpay_logo.png'
-import doc1 from './doc1.png'
-import doc2 from './doc2.png'
+import doc1 from './bg1.png'
+import doc2 from './el1.png'
 import doc3 from './doc3.png'
 import doc4 from './doc4.png'
 import doc5 from './doc5.png'
@@ -61,37 +61,37 @@ export const assets = {
 
 export const specialityData = [
     {
-        speciality: 'General physician',
+        speciality: 'General Doctor',
         image: General_physician
     },
     {
-        speciality: 'Gynecologist',
+        speciality: 'Ambulance Service',
         image: Gynecologist
     },
     {
-        speciality: 'Dermatologist',
+        speciality: 'Plumber',
         image: Dermatologist
     },
     {
-        speciality: 'Pediatricians',
+        speciality: 'Electrican',
         image: Pediatricians
     },
     {
-        speciality: 'Neurologist',
+        speciality: 'Internet S Provider',
         image: Neurologist
     },
     {
-        speciality: 'Gastroenterologist',
+        speciality: 'Water supply',
         image: Gastroenterologist
     },
 ]
 
-export const doctors = [
+export const sprovider = [
     {
         _id: 'doc1',
         name: 'Dr. Richard James',
         image: doc1,
-        speciality: 'General physician',
+        speciality: 'Doctor',
         degree: 'MBBS',
         experience: '4 Years',
         about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
@@ -103,9 +103,9 @@ export const doctors = [
     },
     {
         _id: 'doc2',
-        name: 'Dr. Emily Larson',
+        name: 'Emily Larson',
         image: doc2,
-        speciality: 'Gynecologist',
+        speciality: 'Ambulance',
         degree: 'MBBS',
         experience: '3 Years',
         about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',

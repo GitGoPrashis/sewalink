@@ -9,6 +9,7 @@ import Myprofile from './pages/Myprofile'
 import Mybooking from './pages/Mybooking'
 import Booking from './pages/Booking'
 import Navbar from './componements/Navbar'
+import Footer from './componements/Footer'
 
 const App = () => {
   return (
@@ -27,6 +28,7 @@ const App = () => {
                <Route path='/booking/:spId' element={<Booking />} />
 
       </Routes>
+      <Footer/>
     </div>
   )
 }
