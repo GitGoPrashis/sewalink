@@ -11,6 +11,7 @@ import Booking from './pages/Booking'
 import Navbar from './componements/Navbar'
 import Footer from './componements/Footer'
 
+
 const App = () => {
   return (
     <div className='mx-4 sm:mx-[10%]'>
