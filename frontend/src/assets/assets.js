@@ -28,15 +28,16 @@ import doc9 from './el1.png'
 import doc10 from './el1.png'
 import doc11 from './is1.png'
 import doc12 from './is1.png'
-import doc13 from './doc13.png'
-import doc14 from './doc14.png'
-import doc15 from './doc15.png'
+import doc13 from './wa1.png'
+import doc14 from './wa1.png'
+import doc15 from './wa1.png'
 import Dermatologist from './el1.png'
 import Gastroenterologist from './wa1.png'
 import General_physician from './doc1.png'
 import Gynecologist from './ab1.png'
 import Neurologist from './is1.png'
 import Pediatricians from './el1.png'
+
 
 
 export const assets = {
@@ -257,9 +258,9 @@ export const sprovider = [
     },
     {
         _id: 'doc13',
-        name: 'Dr. Chloe Evans',
+        name: 'Chloe Evans',
         image: doc13,
-        speciality: 'General physician',
+        speciality: 'Water supply',
         degree: 'MBBS',
         experience: '4 Years',
         about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
@@ -271,9 +272,9 @@ export const sprovider = [
     },
     {
         _id: 'doc14',
-        name: 'Dr. Ryan Martinez',
+        name: 'Ryan Martinez',
         image: doc14,
-        speciality: 'Gynecologist',
+        speciality: 'Water supply',
         degree: 'MBBS',
         experience: '3 Years',
         about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
@@ -285,9 +286,9 @@ export const sprovider = [
     },
     {
         _id: 'doc15',
-        name: 'Dr. Amelia Hill',
+        name: 'Amelia Hill',
         image: doc15,
-        speciality: 'Dermatologist',
+        speciality: 'Water supply',
         degree: 'MBBS',
         experience: '1 Years',
         about: 'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
